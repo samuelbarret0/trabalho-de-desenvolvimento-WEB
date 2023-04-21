@@ -1,0 +1,157 @@
+body{
+    background-color: rgb(236, 230, 245);
+
+}
+#idperfil{
+    background-image: linear-gradient(to right, #9226EB, #FF6C14);
+    height: 747px;
+    width: 20%;
+    margin-top: -10px;
+   margin-left: -8px;
+    
+   
+}
+#divfotodoperfil{
+   width: 200px; height: 200px; border-radius: 50%; background-color: white;
+   margin-left: 50px;
+   margin-top: 3px
+}
+
+#idbutton{
+    background-color: white;
+    height: 55px;
+    width: 250px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 25px;
+    border: none;
+    color: #9226EB;
+    font-size: 22px;
+    
+}
+
+.button
+{
+    background-color: white;
+    height: 55px;
+    width: 250px;
+    border-radius: 30px;
+    border: none;
+    margin-left: 25px;
+    margin-top: 30px;
+    color: #9226EB;
+    font-size: 22px;
+}
+
+#idchat{
+    background-color: #a15e9c;
+    height: 200px;
+    width: 1000px;
+    border-radius: 25px;
+    padding-left: 20px;
+    margin-left: 335px;
+    margin-top: -700px;
+    font-size: 20px;
+    
+}
+
+#idgaleria{
+    color: #b319ce;
+    padding-left: 330px;
+    padding-top: 15px;
+    font-size: 40px;
+    font-family:  Verdana, Tahoma, sans-serif;
+}
+
+#fotos1{
+    height: 100px;
+    width: 150px;
+    padding-top: 15px;
+    padding-left: 370px;
+}
+
+
+#fotos2{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+#fotos3{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+#fotos4{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+#fotos5{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+#idcolaboradores{
+    margin-left: 350px;
+    margin-top: 40px;
+    
+    height: 73px;
+    width: 175px;
+    background-color: black;
+    color: #9226EB;
+    align-items: center;
+    display: flex;
+    font-size: 21px;
+    padding-left: 50px;
+}
+
+#idpesquisar{
+    margin-left: 670px;
+    height: 73px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    color: #9226EB;
+    font-size: 20px;
+}
+
+
+#fotos6{
+    margin-left: 300px;
+    margin-top: 25px;
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 90px;
+}
+
+#fotos7{
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 90px;
+}
+
+#fotos8{
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 90px;
+}
+
+#fotos9{
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 90px;
+}
+
+
