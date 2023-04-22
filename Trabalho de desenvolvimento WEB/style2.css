@@ -1,0 +1,147 @@
+body{
+    background-color: rgb(236, 230, 245);
+
+}
+#idperfil{
+    background-image: linear-gradient(to right, #9226EB, #FF6C14);
+    height: 747px;
+    width: 100px;
+    margin-top: -10px;
+   margin-left: -8px;
+    
+   
+}
+
+#idicones{
+    height: 50px;
+    width: 50px;
+    margin-left: 25px;
+    margin-top: 110px;
+}
+.icones{
+ height: 50px;
+ width: 50px;
+ margin-left: 25px;
+ margin-top: 50px;
+}
+
+
+#idchat{
+    
+    height: 200px;
+    width: 1200px;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-left: 150px;
+    margin-top: -700px;
+    font-size: 25px;
+    border: 2px solid #9226EB ;
+
+    
+}
+
+#idgaleria{
+    color: #b319ce;
+    padding-left: 150px;
+    padding-top: 15px;
+    font-size: 40px;
+    font-family:  Verdana, Tahoma, sans-serif;
+}
+
+#fotos1{
+    height: 100px;
+    width: 150px;
+    padding-top: 15px;
+    padding-left: 150px;
+}
+
+
+#fotos2{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 75px;
+}
+
+#fotos3{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 75px;
+}
+
+#fotos4{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 75px;
+}
+
+#fotos5{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 75px;
+}
+
+#idcolaboradores{
+    margin-left: 150px;
+    margin-top: 40px;
+    
+    height: 73px;
+    width: 175px;
+    background-color: black;
+    color: #9226EB;
+    align-items: center;
+    display: flex;
+    font-size: 21px;
+    padding-left: 50px;
+}
+
+#idpesquisar{
+    margin-left: 810px;
+    height: 73px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    color: #9226EB;
+    font-size: 20px;
+}
+
+
+#fotos6{
+    margin-left: 60px;
+    margin-top: 25px;
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 80px;
+}
+
+#fotos7{
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 80px;
+}
+
+#fotos8{
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 80px;
+}
+
+#fotos9{
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 80px;
+}
+
+#fotos10{
+    height: 115px;
+    width: 160px;
+    padding-top: 10px;
+    padding-left: 80px;
+}
